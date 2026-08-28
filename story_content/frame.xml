@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns00000100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x003087">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x003087">
   <layouts>
     <layout name="npnxnanbsnfns00000100101" font="Lato" controllayout="npnxnanbsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
     <layout name="pxabnsnfns00000100101" font="Lato" controllayout="pxabnsnfns00000100101" colorscheme="pxabnsnfns00000100101" string_table="pxabnsnfns00000100101" />
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Rio Read Only" />
+              <option name="title_text" value="Rio Read Only (3)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1586,31 +1586,31 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6kIBujYVpb3" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6kIBujYVpb3" displaytext="Untitled Scene" expand="true" type="slide" translationId="5Xn4qhN77C7">
           <links>
-            <slidelink slideid="_player.6kIBujYVpb3.6BuUZs4a6fx" displaytext="Title Screen" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6hHAjna6sc1" displaytext="Completing this Course" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6Ki8dfw7HpA" displaytext="Congratulations!" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5b5p7e91aFF" displaytext="Need a Reminder?" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6oUfKcTZerk" displaytext="Completing this Course" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5bH56oH6UNG" displaytext="Navigating Rio&#xA;Rio Banner" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5bdbgXxR9ou" displaytext="Searching for a Patient " expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5nrAAwvRtRK" displaytext="Patient Search&#xA;Advanced Search" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5jQjUcFtwxv" displaytext="Patient Search&#xA;Legitimate Access to a Record " expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5t9t1ZDu8Lx" displaytext="Patient Search&#xA;Syncing with NCRS" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6LEoHB5BtjR" displaytext="Clinical Portal - Client&amp;apos;s View" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5WOMxmu3nL7" displaytext="Clinical Portal&#xA;Additional Demographics" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6S9mKOzjHug" displaytext="Clinical Portal&#xA;Patient Banner" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6YffWGbeWnG" displaytext="Clinical Indicators " expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5YLCMmA8Zas" displaytext="Clinical Portal&#xA;Patient Portal" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5t8LwUnbuDi" displaytext="Referrals&#xA;Viewing a Referral" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5o6QQHZGdu9" displaytext="Progress Notes&#xA;Navigation" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6HeUo9V43mx" displaytext="Progress Notes&#xA;Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5nsoAabAXWc" displaytext="Read Only Documents&#xA;Navigation" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.66h3pnt21Pn" displaytext="Read Only Documents&#xA;Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6BkKBVy16OY" displaytext="Fact Finding&#xA;Riverview" expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.6W5Ykc6NqvW" displaytext="Cyber Security&#xA;Stay Safe Online " expand="false" type="slide" />
-            <slidelink slideid="_player.6kIBujYVpb3.5bMtYAGRrSn" displaytext="Next Steps&#xA;Logging into Rio" expand="false" type="slide" />
+            <slidelink slideid="_player.6kIBujYVpb3.6BuUZs4a6fx" displaytext="Title Screen" expand="false" type="slide" translationId="65uJwbJq0QN" />
+            <slidelink slideid="_player.6kIBujYVpb3.6hHAjna6sc1" displaytext="Completing this Course" expand="false" type="slide" translationId="5fuLANArleQ" />
+            <slidelink slideid="_player.6kIBujYVpb3.6Ki8dfw7HpA" displaytext="Congratulations!" expand="false" type="slide" translationId="6KL6Lqkevvl" />
+            <slidelink slideid="_player.6kIBujYVpb3.5b5p7e91aFF" displaytext="Need a Reminder?" expand="false" type="slide" translationId="5YRPp9rdN8L" />
+            <slidelink slideid="_player.6kIBujYVpb3.6oUfKcTZerk" displaytext="Completing this Course" expand="false" type="slide" translationId="5fMZyiAEyQy" />
+            <slidelink slideid="_player.6kIBujYVpb3.5bH56oH6UNG" displaytext="Navigating Rio&#xA;Rio Banner" expand="false" type="slide" translationId="6WRHqG32Pet" />
+            <slidelink slideid="_player.6kIBujYVpb3.5bdbgXxR9ou" displaytext="Searching for a Patient " expand="false" type="slide" translationId="5ctiCdrq6Ot" />
+            <slidelink slideid="_player.6kIBujYVpb3.5nrAAwvRtRK" displaytext="Patient Search&#xA;Advanced Search" expand="false" type="slide" translationId="6dZ26laZr3Y" />
+            <slidelink slideid="_player.6kIBujYVpb3.5jQjUcFtwxv" displaytext="Patient Search&#xA;Legitimate Access to a Record " expand="false" type="slide" translationId="6fr5Q7sFPS7" />
+            <slidelink slideid="_player.6kIBujYVpb3.5t9t1ZDu8Lx" displaytext="Patient Search&#xA;Syncing with NCRS" expand="false" type="slide" translationId="6mEtIp6bMfB" />
+            <slidelink slideid="_player.6kIBujYVpb3.6LEoHB5BtjR" displaytext="Clinical Portal - Client&amp;apos;s View" expand="false" type="slide" translationId="5b9OBKOLLCV" />
+            <slidelink slideid="_player.6kIBujYVpb3.5WOMxmu3nL7" displaytext="Clinical Portal&#xA;Additional Demographics" expand="false" type="slide" translationId="6iiIziAngH6" />
+            <slidelink slideid="_player.6kIBujYVpb3.6S9mKOzjHug" displaytext="Clinical Portal&#xA;Patient Banner" expand="false" type="slide" translationId="6hgZGM43iT5" />
+            <slidelink slideid="_player.6kIBujYVpb3.6YffWGbeWnG" displaytext="Clinical Indicators " expand="false" type="slide" translationId="6RxOOc84hLq" />
+            <slidelink slideid="_player.6kIBujYVpb3.5YLCMmA8Zas" displaytext="Clinical Portal&#xA;Patient Portal" expand="false" type="slide" translationId="5i3mhaarWvD" />
+            <slidelink slideid="_player.6kIBujYVpb3.5t8LwUnbuDi" displaytext="Referrals&#xA;Viewing a Referral" expand="false" type="slide" translationId="5ttxaIqq7EE" />
+            <slidelink slideid="_player.6kIBujYVpb3.5o6QQHZGdu9" displaytext="Progress Notes&#xA;Navigation" expand="false" type="slide" translationId="6dM6k7hNIMK" />
+            <slidelink slideid="_player.6kIBujYVpb3.6HeUo9V43mx" displaytext="Progress Notes&#xA;Overview" expand="false" type="slide" translationId="6hjl5RHOmqs" />
+            <slidelink slideid="_player.6kIBujYVpb3.5nsoAabAXWc" displaytext="Read Only Documents&#xA;Navigation" expand="false" type="slide" translationId="6o46bgyyXJh" />
+            <slidelink slideid="_player.6kIBujYVpb3.66h3pnt21Pn" displaytext="Read Only Documents&#xA;Overview" expand="false" type="slide" translationId="5jSdptNTHn5" />
+            <slidelink slideid="_player.6kIBujYVpb3.6BkKBVy16OY" displaytext="Fact Finding&#xA;Riverview" expand="false" type="slide" translationId="5z7VnHGtiZ3" />
+            <slidelink slideid="_player.6kIBujYVpb3.6W5Ykc6NqvW" displaytext="Cyber Security&#xA;Stay Safe Online " expand="false" type="slide" translationId="6S9NkaXlvdv" />
+            <slidelink slideid="_player.6kIBujYVpb3.5bMtYAGRrSn" displaytext="Next Steps&#xA;Logging into Rio" expand="false" type="slide" translationId="5nUoHDHCQRW" />
           </links>
         </slidelink>
       </links>
@@ -1618,8 +1618,8 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="https://nhs.sharepoint.com/:w:/r/sites/RP7_CommunicationSite/Non%20Search%20Library/Rio_Overview_%26_Noting_Assessment.docx?d=w538442012b174d5a9cea68a407876f76&amp;csf=1&amp;web=1&amp;e=HwoTPV" image="story_content/url.png" title="Link to eLearning Assessment " />
-      <resource url="https://nhs.sharepoint.com/:u:/r/sites/RP7_CommunicationSite/SitePages/System-User-Guides-and-Process-Maps.aspx?csf=1&amp;web=1&amp;e=9D6z4J" image="story_content/url.png" title="Link to all User Guides" />
+      <resource url="https://nhs.sharepoint.com/:w:/r/sites/RP7_CommunicationSite/Non%20Search%20Library/Rio_Overview_%26_Noting_Assessment.docx?d=w538442012b174d5a9cea68a407876f76&amp;csf=1&amp;web=1&amp;e=HwoTPV" image="story_content/url.png" title="Link to eLearning Assessment " translationId="5nWnw4ORTBp" />
+      <resource url="https://nhs.sharepoint.com/:u:/r/sites/RP7_CommunicationSite/SitePages/System-User-Guides-and-Process-Maps.aspx?csf=1&amp;web=1&amp;e=9D6z4J" image="story_content/url.png" title="Link to all User Guides" translationId="5jjsAgVUGUX" />
     </resources>
   </resource_data>
   <transcript_data />
